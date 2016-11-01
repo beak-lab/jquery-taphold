@@ -1,0 +1,19 @@
+{
+  "name": "jquery-taphold",
+  "version": "1.0.0",
+  "description": "A taphold event for jQuery.",
+  "main": "taphold.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beak-lab/jquery-taphold.git"
+  },
+  "author": "Rich Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richadams/jquery-taphold/issues"
+  },
+  "homepage": "https://github.com/richadams/jquery-taphold#readme"
+}
